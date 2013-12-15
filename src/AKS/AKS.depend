@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1386733238 source:d:\work\source\c++\aks\main.cpp
+	<iostream>
+	<math.h>
+
+1386755714 source:d:\documents\ebooks\information security\information security\baocao\src\aks\main.cpp
+	<iostream>
+	<cmath>
+
+1386755947 source:c:\users\keq9\downloads\docs\baocao\baocao\src\aks\main.cpp
+	<iostream>
+	<cmath>
+
